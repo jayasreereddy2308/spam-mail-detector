@@ -149,18 +149,11 @@ Spam
 ---
 
 # 👨‍💻 Author
-
-**Ganesh Basani**
+Jayasree 
 
 Artificial Intelligence & Machine Learning Enthusiast
 
----
 
-# 👩‍🏫 Mentor
-
-**Jayasree**
-
-Special thanks for the guidance and encouragement during the QSkill AI & Machine Learning Internship.
 
 ---
 
@@ -168,9 +161,9 @@ Special thanks for the guidance and encouragement during the QSkill AI & Machine
 
 MIT License
 
-Copyright (c) 2026 Ganesh Basani
+Copyright (c) 2026 Jayasree
 
-This project was developed as part of the **QSkill Artificial Intelligence & Machine Learning Internship** under the guidance of **Mentor Jayasree**.
+This project was developed as part of the **QSkill Artificial Intelligence & Machine Learning Internship.
 
 Permission is hereby granted, free of charge, to use, modify, and distribute this software for educational purposes.
 
